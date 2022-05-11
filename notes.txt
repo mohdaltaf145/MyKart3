@@ -1,0 +1,14 @@
+#installing express to to make restApi for our ecommerce app
+#installing mongoose to use mongodb database
+#installing dotenv to hide secret keys
+#to start nodemon go to package.json and start : nodemon index.js
+#importing cryptojs for password encrytion
+#adding JWT to make our app more secure
+
+#using json web token to verify our user and provide
+them a json web token after login process. So, whenever
+user try to make any req updating or deleting any user
+or product or cart we are just gonna verify if the user
+same user as client or not 
+
+#using react router to root components with url
