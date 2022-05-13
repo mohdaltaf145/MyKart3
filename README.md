@@ -1,4 +1,5 @@
 #Branches
+
 main branch has client side(frontend code) and api branch has server side(backend code)
 
 # Getting Started with Create React App
