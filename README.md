@@ -1,3 +1,5 @@
+# main branch has client side(frontend code) and api branch has server side(backend code)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
